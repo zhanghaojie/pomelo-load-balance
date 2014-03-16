@@ -1,0 +1,10 @@
+{
+	"name"        : "pomelo-loadbalance-plugin",
+	"version"     : "0.0.1",
+	"private"     : false,
+	"dependencies": {
+		"usage"        : ">=0.3.9",
+		"toobusy"      : "0.2.4",
+		"pomelo-logger": "0.1.2"
+	}
+}
